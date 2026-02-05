@@ -5,7 +5,6 @@
 - 📚 Quero aprimorar minhas **boas práticas de código**, aprender a integrar **bancos de dados** e dominar frameworks como **Spring Boot**.  
 - 🐧 Estudo **Linux** e **Inteligência Artificial** por fora da faculdade, enquanto aprofundo meus conhecimentos em Java.  
 - 🛠️ Tenho experiência com **Java, Python, JavaScript, HTML, CSS, Estruturas de Dados e Git**.  
-- 🎮 *Fun fact:* atualmente desenvolvo **mods para Minecraft** usando **NeoForge**.
 
 
 ## 🌐 Socials:
